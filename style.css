@@ -1,0 +1,84 @@
+.img{width: 1200px; margin: auto; position: relative;}
+		.white{background: #ffffff}
+		.first{background: #faebe8}
+		.second{background: #f9ede5}
+		.third{background: #fbfcf0}
+		.last{background: #f4e6df}
+		#back1 {background-size: 100% auto; height: 1280px;}
+		#back2 {background-size: 100% auto; height: 1361px;}
+		#back3 {background-size: 100% auto; height: 1771px;}
+		#back4 {background-size: 100% auto; height: 1866px;}
+		#back5 {background-size: 100% auto; height: 1250px;}
+		#back6 {background-size: 100% auto; height: 1790px;}
+		#back7 {background-size: 100% auto; height: 1400px;}
+		#back8 {background-size: 100% auto; height: 200px;}
+
+		h1,h2,h3,h4,p { font-family: "NanumGothic";}
+		h5 { font-family: 'Nanum Myeongjo', serif;}
+		
+
+	
+
+		h2 {font-size: 2.2em; position: absolute; font-weight:600}
+		h3 {font-size: 4em; position: absolute; font-weight:600}
+		h4 {font-size: 1.1em; position: absolute; font-weight:600}
+		h5 {font-size: 1.6em; position: absolute; font-weight:600}
+		.pcenter {text-align:center; font-size: 1.1em; position: absolute; line-height: 1.75}
+		.pleft {text-align:left; font-size: 1.1em; position: absolute; line-height: 1.75}
+		.pright {text-align:right; font-size: 1.1em; position: absolute; line-height: 1.75}
+		.plast {text-align:center; font-size: 1.2em; position: absolute; line-height: 1.75}
+		.arashi { font-family: 'Nanum Myeongjo', serif;}
+		#araship {position: absolute; top: 900px;}
+		#arashi1 { text-align:center; font-size: 9.5em; position: absolute; line-height: 1.75; position: absolute; top: 475px; left: 532px}
+		#arashi2 { text-align:center; font-size: 1em; position: absolute; line-height: 1.75; position: absolute; top: 635px; left: 584px}
+		#arashi3 { text-align:center; font-size: 1.8em; position: absolute; line-height: 1.75; position: absolute; top: 755px; left: 725px}
+
+		header p {position: absolute; top: 935px; left: 230px;}
+
+
+		#contents1 h2 {position: absolute; top: 65px; left: 160px}
+		#contents1 #p1 {position: absolute; top: 695px; left: 420px}
+		#contents1 #p2 {position: absolute; top: 950px; left: 160px}
+
+		#contents2 h3 {position: absolute; top: 705px; left: 840px}
+		#contents2 #p1 {position: absolute; top: 890px; left: 160px}
+		#contents2 #p2 {position: absolute; top: 1039px; left: 440px}
+
+		#contents3 h2 {position: absolute; top: 580px; left: 158px}
+		#contents3 #p1 {position: absolute; top: 715px; left: 158px; width: 480px;}
+
+		#contents4 h2 {position: absolute; top: 190px; left: 645px}
+		#contents4 #p1 {position: absolute; top: 310px; left: 645px; width: 420px;}
+
+		#contents5 #h1 {position: absolute; top: 80px; left: 67px}
+		#contents5 #h2 {position: absolute; top: 95px; left: 67px}
+		#contents5 #p1 {position: absolute; top: 670px; left: 67px}
+		#contents5 #h3 {position: absolute; top: 875px; right: 67px}
+		#contents5 #h4 {position: absolute; top: 890px; right: 67px}
+		#contents5 #p2 {position: absolute; top: 1450px; right: 67px}
+
+		#contents6 h5 {text-align:center; position: absolute; top: 900px; margin: auto; position: relative; line-height: 1.75;}
+		#contents6 #p1 {position: absolute; top: 840px; margin: auto; position: relative; font-family: 'Nanum Myeongjo', serif;}
+
+		#contents7 #p1 {position: absolute; top: 80px; left: 60px}
+		#contents7 #p2 {position: absolute; top: 80px; right: 60px}
+
+
+		#image1 {width: 1200px; position: absolute;top: 0px; left: 0px}
+		#image2 {width: 690px; position: absolute; top: 230px; left: 160px}
+		#image3 {width: 1200px; position: absolute; top: 0px; left: 0px}
+		#image4 {width: 1200px; position: absolute;top: 0px; left: 0px}
+		#image5 {width: 265px; position: absolute;top: 740px; left: 775px}
+		#image6 {width: 265px; position: absolute;top: 1040px; left: 775px}
+		#image7 {width: 265px; position: absolute;top: 1340px; left: 775px}
+		#image8 {height: 1250px; position: absolute;top: 0px; left: 0px}
+
+		#video1 {height: 490px; position: absolute;top: 185px; left: 65px}
+		#video2 {height: 490px; position: absolute;top: 970px; right: 65px}
+
+		#image9 {width: 1200px; position: absolute;top: 50px;}
+		#image10 {width: 1200px; position: absolute;top: 270px;}
+		#image11 {width: 1200px; position: absolute;top: 490px;}
+
+		#image12 {width: 130px; position: absolute; left: 530px; top: 45px}
+
